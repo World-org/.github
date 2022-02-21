@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hi there 👋
+## Nice to see ya! To know more about the organisation visit [link](https://github.com/World-org/WeClub#readme)
 <!--
 
 **Here are some ideas to get you started:**
